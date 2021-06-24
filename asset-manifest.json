@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movements-dark/static/css/main.086ab861.chunk.css",
+    "main.js": "/movements-dark/static/js/main.e28e6ff0.chunk.js",
+    "main.js.map": "/movements-dark/static/js/main.e28e6ff0.chunk.js.map",
+    "runtime-main.js": "/movements-dark/static/js/runtime-main.85b8735e.js",
+    "runtime-main.js.map": "/movements-dark/static/js/runtime-main.85b8735e.js.map",
+    "static/js/2.e4ae8ce6.chunk.js": "/movements-dark/static/js/2.e4ae8ce6.chunk.js",
+    "static/js/2.e4ae8ce6.chunk.js.map": "/movements-dark/static/js/2.e4ae8ce6.chunk.js.map",
+    "index.html": "/movements-dark/index.html",
+    "static/css/main.086ab861.chunk.css.map": "/movements-dark/static/css/main.086ab861.chunk.css.map",
+    "static/js/2.e4ae8ce6.chunk.js.LICENSE.txt": "/movements-dark/static/js/2.e4ae8ce6.chunk.js.LICENSE.txt",
+    "static/media/menu.c21acb3a.svg": "/movements-dark/static/media/menu.c21acb3a.svg",
+    "static/media/DarkMode.css": "/movements-dark/static/media/moon.08c8560a.png",
+    "static/media/x.cb990eee.svg": "/movements-dark/static/media/x.cb990eee.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85b8735e.js",
+    "static/js/2.e4ae8ce6.chunk.js",
+    "static/css/main.086ab861.chunk.css",
+    "static/js/main.e28e6ff0.chunk.js"
+  ]
+}
